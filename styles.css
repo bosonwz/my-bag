@@ -1,0 +1,71 @@
+/* all body */
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@400;800&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto+Mono:ital,wght@1,400;1,700&display=swap');
+@import url('https://use.fontawesome.com/releases/v6.1.1/css/all.css');
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+/* header */
+header {
+  background-image: url(Images/background_header.png);
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-size:cover;
+  text-align: center;
+  text-decoration: none;
+}
+.foto-header {
+  width: 100px;
+  height: 146.37px;
+}
+/* main */
+h1 {
+  color: #005677;
+  background: #c4c4c4;
+  letter-spacing: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 35px;
+  margin: 0;
+  vertical-align:middle;
+}
+h2 {
+  color: #005677;
+  background: #c4c4c4;
+  /* font-size: 20px; */
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  /* line-height: 16.94px; */
+  /* font-weight: 700; */
+  /* margin: 0 0 1rem 0; */
+  padding-left: 1rem;
+  vertical-align: middle;
+}
+.seccion-datos span {
+  font-weight: bold;
+  /* margin-bottom: 10px; */
+  font-style: italic;
+  /* font-family: Times New Roman; */
+  /* font-size: 15px; */
+  /* font-weight: 700;
+  line-height: 13px;
+  /* letter-spacing: 0em; */
+  /* text-align: left; */
+}
+.Section-academica span {
+  /* margin-bottom: 10px; */
+} 
+/* footer */
+footer{
+  /* height: 37px; */
+  /* left: 0px; */
+  /* top: 987px; */
+  background: #005677;
+  font-family: Times New Roman;
+  font-size: 20px;
+  font-weight: 700;
+  /* line-height: 17px; */
+  /* letter-spacing: 0em; */
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+    }
